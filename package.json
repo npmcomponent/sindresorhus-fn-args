@@ -1,24 +1,7 @@
 {
-  "name": "fn-args",
-  "version": "0.1.3",
+  "name": "sindresorhus-fn-args",
   "description": "Get the arguments of a function",
-  "license": "MIT",
-  "repository": "sindresorhus/fn-args",
-  "main": "fn-args.js",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "http://sindresorhus.com"
-  },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "files": [
-    "fn-args.js"
-  ],
+  "version": "0.1.3",
   "keywords": [
     "fn",
     "function",
@@ -27,7 +10,7 @@
     "tostring",
     "extract"
   ],
-  "devDependencies": {
-    "mocha": "*"
-  }
+  "main": "fn-args.js",
+  "dependencies": {},
+  "license": "MIT"
 }
